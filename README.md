@@ -16,4 +16,4 @@ To capture a piece or group that group must be surrounded on all adjacent inters
 
 A piece is removed when it is captured
 
-The a move cannot be played that will return the game board to the exact same position as it was last in
+A move cannot be played that will return the game board to the exact same position as it was last in
