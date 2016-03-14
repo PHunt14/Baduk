@@ -17,3 +17,12 @@ To capture a piece or group that group must be surrounded on all adjacent inters
 A piece is removed when it is captured
 
 A move cannot be played that will return the game board to the exact same position as it was last in
+
+A territory is the intersecting points on the grid
+
+A territory is considered owned if a player surrounds it on all possible sides
+
+# Winning
+Territories: The player with the most number of territories wins
+Kill: The player that has captured the most opposing players stones wins
+Territories & Kill: The player that has the highest total of territories + kills wins
