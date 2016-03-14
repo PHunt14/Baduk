@@ -24,5 +24,7 @@ A territory is considered owned if a player surrounds it on all possible sides
 
 # Winning
 Territories: The player with the most number of territories wins
+
 Kill: The player that has captured the most opposing players stones wins
+
 Territories & Kill: The player that has the highest total of territories + kills wins
