@@ -35,16 +35,16 @@ Territories & Kill: The player that has the highest total of territories + kills
 # Coding strategy
 1) Create the game board
 
--a) Start with a 9x9 board-
+~~a) Start with a 9x9 board~~
 
--b) 13 x 13-
+~~b) 13 x 13~~
 
 c) 19x19
 
 - When this board is created, at the current spacing (50) it is too large
 
 
--2) Create bare menu for board size selection-
+~~2) Create bare menu for board size selection~~
 
 - Login button
 does not actually redirect to login page, just goes to board selection
